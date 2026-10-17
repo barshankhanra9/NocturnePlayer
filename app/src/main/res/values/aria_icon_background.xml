@@ -1,5 +1,5 @@
+
 <?xml version="1.0" encoding="utf-8"?>
-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@color/aria_icon_background" />
-    <foreground android:drawable="@mipmap/ic_launcher" />
-</adaptive-icon>
+<resources>
+    <color name="aria_icon_background">#0B0A10</color>
+</resources>
